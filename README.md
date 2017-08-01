@@ -11,5 +11,4 @@ Base form: do </br>
 Simple past: did </br>
 Past participle: done </br>
 
-I will appreciate if anyone want to collaborate and add more feature to the program.
-I have been using python 3.4
+
